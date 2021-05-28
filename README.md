@@ -1,6 +1,21 @@
-# Learn Git & GitHub
-Based on the tutorial provided by amigoscode, [Git and GitHub Tutorial For Beginners | Full Course [2021] [NEW]](https://youtu.be/3fUbBnN_H2c). 
-<br/>Check if git is already installed `git --version`
+# Learn Git & GitHub Essentials
+Based on the tutorial provided by amigoscode, [Git and GitHub Tutorial For Beginners](https://youtu.be/3fUbBnN_H2c).  
+<br/>The aim of this documentation is to provide a basic understanding of Git & GitHub
+## Table of contents
+1. Installation & Setup
+2. Basics of Git
+3. SSH to GitHub
+4. Push & Pull
+5. Branch & Merge
+6. Rebase
+7. Git Desktop Clients
+8. Further reading
+
+
+### Installation & Setup
+The following text contains 
+
+<br/>Check if git is already installed `git --version'
 If you do not have git installed then use the following steps:
 1. Install [Homebrew](https://brew.sh/) if not already installed
 2. Install git by using: `brew install git`
