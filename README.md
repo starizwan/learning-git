@@ -28,7 +28,13 @@ Installing with homebrew is the easiest option to install git
 
 ### Basics of Git
   Before executing any command we first need to initialise the current directory: `git init`</br>
-  <sub>This will create a folder called git in the current directory to initialise the current directory as a git repository. Use `ls -a` to see all the files & folders</sub>
+  <sub>This will create a folder called .git in the current directory. It initializes the current directory as a git repository. Use `ls -a` to see all the files & folders.</sub>
+  </br>
 ![Screenshot_2021-05-17_at_12 36 23_PM](https://user-images.githubusercontent.com/34064583/119927834-df2a7280-bf97-11eb-8e58-0a906e5604ea.png)
+</br>
+#### git add 
+Use `git add .` to add all of the files from current directory to the staging area.
+</br>Use `git commit -m "commit message"` to commit the staged files in git repository.
+
 
 
