@@ -36,5 +36,5 @@ Installing with homebrew is the easiest option to install git
 Use `git add .` to add all of the files from current directory to the staging area.
 </br>Use `git commit -m "commit message"` to commit the staged files in git repository.
 
-
+## To be continued
 
